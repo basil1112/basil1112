@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 ### Connect with me
 <p align="left">
 <a href="https://twitter.com/iambasil1112" target="blank"><img align="center" src="https://github.com/basil1112/basil1112/blob/main/images/twitter.svg" alt="basil1112" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/basil1112" target="blank"><img align="center" src="https://github.com/basil1112/basil1112/blob/main/images/linked-in-alt.svg" alt="basil1112" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/basil1112" target="blank"><img align="center" src="https://github.com/basil1112/basil1112/blob/main/images/linked-in-alt.svg" alt="basil1112" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5077102" target="blank"><img align="center" src="https://github.com/basil1112/basil1112/blob/main/images/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://www.instagram.com/basil_1112/" target="blank"><img align="center" src="https://github.com/basil1112/basil1112/blob/main/images/instagram.svg" alt="basil1112" height="30" width="40" /></a>
