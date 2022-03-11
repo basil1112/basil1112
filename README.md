@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<!-- Header -->
+<h1 align="center">
+  <img src="https://github.com/basil1112/basil1112/blob/main/images/logo.svg" width="500">
+  <br>
+  Hi, I'm Basil Jose <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+</h1>
+
+
+
 <!--
 **basil1112/basil1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
