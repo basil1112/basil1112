@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭  I’m currently working on something cool 
-- 👨🏻‍💻 I am working at [ZoiMeet](https://www.zoimeet.com) as a `Full Stack Developer`.
-- 🌱 I’m currently learning JavaScript,GraphQL
+- 👨🏻‍💻 I am working at [ContinuSys](https://continusys.com) as a `Full Stack Developer`.
+- 🌱 I’m currently learning GraphQL
 - 🐱‍🏍 I’m looking forward to contribute to **Open Source Projects**.
 - 💬 Ask me about anything related to Javascript/Typescript/ReactJS/NodeJS/Express/Android/SocketIO/SpeechEngine
 - ⚡ Fun fact: ...
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
